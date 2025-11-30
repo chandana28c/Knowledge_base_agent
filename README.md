@@ -38,7 +38,7 @@ This ensures:
 
 
 ### 1. Cloud Demo (Deployed)
-- **Live URL:** [https://your-app.streamlit.app](your-url)
+- **Live URL:**  https://knowledge-base-agent.streamlit.app/
 - **File:** `simple_app.py`
 - **Speed:** Instant responses (2-3 seconds)
 - **Deployment:** Streamlit Cloud
