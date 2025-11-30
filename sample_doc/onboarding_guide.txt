@@ -1,0 +1,444 @@
+NEW EMPLOYEE ONBOARDING GUIDE
+Welcome to TechCorp Solutions!
+
+========================================
+WELCOME MESSAGE
+========================================
+
+Congratulations on joining TechCorp! We're excited to have you on our team. This guide will help you navigate your first few weeks and set you up for success.
+
+Your journey starts here!
+
+========================================
+BEFORE YOUR FIRST DAY
+========================================
+
+Pre-Joining Tasks (Complete within 3 days):
+
+1. Document Submission
+   Upload to HR portal (https://hr.techcorp.com):
+   - Photo ID proof (Aadhaar, PAN, Passport)
+   - Address proof (latest utility bill or rental agreement)
+   - Educational certificates (10th, 12th, degree, marksheets)
+   - Previous employment relieving letter
+   - Previous salary slips (last 3 months)
+   - Bank account details (cancelled cheque)
+   - PF transfer form (if applicable)
+   - Medical fitness certificate
+
+2. Background Verification
+   - Respond to verification agency within 24 hours
+   - Provide accurate information
+   - Completion required before joining
+
+3. System Access Setup
+   - Check email for IT setup instructions
+   - Create initial passwords (will change on Day 1)
+   - Download required apps on personal phone
+
+4. First Day Preparation
+   What to bring:
+   - Original documents (for verification)
+   - Passport-size photos (2 copies)
+   - Professional attire (business casual)
+   - Notepad and pen
+   - Positive attitude!
+
+   What NOT to bring:
+   - Relatives or friends (first day)
+   - Valuables (jewelry, expensive items)
+
+========================================
+WEEK 1: GETTING STARTED
+========================================
+
+DAY 1 - Welcome & Orientation
+---------------------------------
+9:00 AM - Arrival
+- Report to Reception (Ground Floor)
+- Collect temporary access card
+- Meet HR representative
+
+9:30 AM - HR Orientation (Conference Room A)
+- Welcome presentation
+- Company overview and values
+- Policies and procedures
+- Benefits enrollment
+- ID card photo
+
+11:00 AM - IT Setup (Your Desk)
+- Laptop and equipment issuance
+- Email and system access setup
+- VPN and security tools installation
+- Password creation and MFA setup
+
+12:00 PM - Office Tour
+- Departments and facilities
+- Cafeteria, restrooms, prayer room
+- Emergency exits and assembly points
+- Parking and transportation
+
+1:00 PM - Lunch (Cafeteria)
+- Welcome lunch with team
+- Informal introductions
+- Get to know your colleagues
+
+2:00 PM - Team Introduction
+- Meet your manager
+- Meet team members
+- Overview of team structure and responsibilities
+- Your role and expectations
+
+3:30 PM - Workstation Setup
+- Personalize your desk
+- Install required software
+- Join team communication channels
+- Review first-week schedule
+
+5:00 PM - Day 1 Wrap-up
+- Questions and clarifications
+- Collect access cards and keys
+- Confirm Day 2 schedule
+
+Checklist for Day 1:
+□ Received employee ID card
+□ Laptop and equipment issued
+□ Email access working
+□ VPN access configured
+□ Slack/Teams added to all channels
+□ Met your buddy/mentor
+□ Know your desk location
+□ Know emergency procedures
+
+DAY 2 - Systems & Tools Training
+---------------------------------
+9:00 AM - IT Systems Training
+- HRMS portal walkthrough
+- Email best practices
+- Calendar management
+- File storage (Google Drive/SharePoint)
+- Project management tools (Jira/Asana)
+
+11:00 AM - Security Training (Mandatory)
+- Information security policies
+- Password management
+- Phishing awareness
+- Data classification
+- Incident reporting
+
+1:00 PM - Department Overview
+- Department goals and objectives
+- Key projects and initiatives
+- Team roles and responsibilities
+- Communication channels
+
+3:00 PM - Product/Service Training
+- Company products/services overview
+- Customer segments
+- Value proposition
+- Competitive landscape
+
+5:00 PM - End of Day
+- Review learning materials
+- Complete assigned e-learning modules
+
+DAY 3 - Role-Specific Training
+---------------------------------
+9:00 AM - Role Training Begins
+- Job-specific tools and processes
+- Standard operating procedures
+- Quality standards
+- Reporting requirements
+
+11:00 AM - Meet Key Stakeholders
+- Introduction to cross-functional teams
+- Understanding dependencies
+- Building relationships
+
+2:00 PM - Shadow Session
+- Observe experienced team member
+- Understand day-to-day work
+- Ask questions
+
+4:00 PM - First Assignment
+- Small, manageable task
+- Deadline: End of Week 1
+- Buddy support available
+
+DAY 4-5 - Hands-On Learning
+---------------------------------
+- Continue role-specific training
+- Work on assigned tasks with guidance
+- Attend team meetings as observer
+- Complete mandatory compliance training
+- One-on-one with manager (Day 5, 4 PM)
+
+Week 1 Checklist:
+□ Completed all mandatory training
+□ System access to all required tools
+□ Met all immediate team members
+□ Understand team goals and your role
+□ Completed first assignment
+□ Set up one-on-one schedule with manager
+
+========================================
+WEEK 2-4: BUILDING MOMENTUM
+========================================
+
+Week 2: Deepening Knowledge
+---------------------------------
+- Start taking on real responsibilities
+- Increase task complexity gradually
+- Attend relevant meetings (not just observe)
+- Begin contributing in discussions
+- Schedule coffee chats with team members
+- Complete department-specific training
+
+Week 3: Gaining Independence
+---------------------------------
+- Manage tasks with minimal supervision
+- Proactively ask questions
+- Start participating in team rituals (standups, retrospectives)
+- Understand end-to-end processes
+- Build relationships across teams
+
+Week 4: Contributing Value
+---------------------------------
+- Own specific deliverables
+- Provide input in meetings
+- Identify improvement opportunities
+- 30-day check-in with manager
+- Provide onboarding feedback
+
+30-Day Milestones:
+□ Independently complete assigned tasks
+□ Understand team workflow
+□ Building relationships with stakeholders
+□ Contributing to team discussions
+□ No blockers for day-to-day work
+
+========================================
+FIRST 90 DAYS: PROVING YOUR VALUE
+========================================
+
+Month 2 (Days 31-60):
+- Take ownership of projects/features
+- Meet or exceed initial goals
+- Seek feedback proactively
+- Expand network across departments
+- Identify areas for professional growth
+
+Month 3 (Days 61-90):
+- Fully integrated into team
+- Meeting performance expectations
+- Mentoring newer team members (if applicable)
+- Contributing ideas and improvements
+- 90-day performance review
+
+End of Probation Goals:
+□ Consistently meeting expectations
+□ Strong relationships with team
+□ Understanding of company culture
+□ Contributing to team goals
+□ Ready for permanent confirmation
+
+========================================
+KEY PEOPLE TO KNOW
+========================================
+
+Your Support Network:
+
+1. Reporting Manager
+   - Weekly one-on-ones
+   - Performance feedback
+   - Career development
+   - Day-to-day guidance
+
+2. Onboarding Buddy/Mentor
+   - Assigned on Day 1
+   - Answers questions (no question too small!)
+   - Cultural guidance
+   - Social integration
+
+3. HR Business Partner
+   - Policy clarifications
+   - Benefits support
+   - Conflict resolution
+   - Career guidance
+
+4. IT Helpdesk
+   - Technical issues
+   - System access
+   - Equipment problems
+   - Ext: 4444
+
+5. Admin Team
+   - Facilities issues
+   - Access cards
+   - Supplies
+   - Ext: 6666
+
+========================================
+IMPORTANT SYSTEMS & TOOLS
+========================================
+
+Must-Know Platforms:
+
+1. HRMS Portal (https://hrms.techcorp.com)
+   - Leave applications
+   - Salary slips
+   - Tax declarations
+   - Reimbursements
+   - Policy documents
+
+2. Email (yourname@techcorp.com)
+   - Primary communication
+   - Calendar management
+   - Meeting invitations
+
+3. Slack/Microsoft Teams
+   - Instant messaging
+   - Team channels
+   - Quick discussions
+   - Status updates
+
+4. Jira/Asana
+   - Task management
+   - Project tracking
+   - Workflow management
+
+5. GitHub/GitLab
+   - Code repository (for tech roles)
+   - Documentation
+   - Collaboration
+
+6. Google Workspace
+   - Drive: Document storage
+   - Docs: Documentation
+   - Sheets: Data/reports
+   - Slides: Presentations
+
+========================================
+COMPANY CULTURE & VALUES
+========================================
+
+Our Core Values:
+
+1. Customer First
+   - Obsess over customer needs
+   - Deliver exceptional quality
+   - Build long-term relationships
+
+2. Innovation
+   - Challenge status quo
+   - Experiment and learn
+   - Embrace change
+
+3. Collaboration
+   - Teamwork over individual glory
+   - Help others succeed
+   - Share knowledge freely
+
+4. Integrity
+   - Honest and transparent
+   - Do the right thing
+   - Admit mistakes and learn
+
+5. Excellence
+   - High standards
+   - Continuous improvement
+   - Attention to detail
+
+Cultural Norms:
+- Respect everyone's time (be punctual)
+- Open door policy (approach anyone)
+- Feedback culture (give and receive)
+- Work-life balance (no burnout culture)
+- Casual dress code (business casual minimum)
+
+========================================
+FREQUENTLY ASKED QUESTIONS
+========================================
+
+Q: When will I get my first salary?
+A: End of first full month. Pro-rata for partial month in next cycle.
+
+Q: How do I apply for leave?
+A: Through HRMS portal, minimum 3 days advance notice (except emergencies).
+
+Q: Can I work from home during probation?
+A: Generally no, unless special circumstances. Possible after 6 months.
+
+Q: How do I access learning resources?
+A: LinkedIn Learning, Udemy licenses available through HR portal.
+
+Q: What's the dress code?
+A: Business casual. Fridays are casual. Formals for client meetings.
+
+Q: When can I enroll in benefits?
+A: Health insurance: Immediate. PF: Automatic. Others: Check with HR.
+
+Q: How do I request equipment?
+A: Submit ticket through IT helpdesk portal.
+
+Q: Can I refer someone for a job?
+A: Yes! Use referral portal. Earn bonus if candidate joins.
+
+Q: What if I'm running late?
+A: Inform manager via Slack/text. Not a problem if occasional.
+
+Q: Who do I contact for payroll questions?
+A: Email: payroll@techcorp.com or Ext: 5678
+
+========================================
+QUICK REFERENCE
+========================================
+
+Emergency Contacts:
+- Reception: Ext. 1111
+- Security: Ext. 2222
+- IT Helpdesk: Ext. 4444
+- HR: Ext. 5555
+- Facilities: Ext. 6666
+- Medical Emergency: Ext. 9999
+
+Important Links:
+- HR Portal: https://hrms.techcorp.com
+- Learning: https://learning.techcorp.com
+- IT Helpdesk: https://helpdesk.techcorp.com
+- Benefits: https://benefits.techcorp.com
+
+Office Hours:
+- Monday-Friday: 9 AM - 6 PM
+- Lunch: 1 PM - 2 PM
+- Tea Breaks: 11 AM, 4 PM
+
+========================================
+FEEDBACK & SUPPORT
+========================================
+
+We want your onboarding to be smooth!
+
+If you have questions: Ask your buddy or manager
+If you face issues: Contact HR (hr@techcorp.com)
+If you have suggestions: We welcome feedback!
+
+Onboarding Survey: You'll receive this after Week 2 and Month 3
+
+Remember: There are no stupid questions. Everyone was new once!
+
+========================================
+WELCOME TO THE TEAM!
+========================================
+
+We're thrilled to have you here. Your skills and perspective will make TechCorp even better.
+
+Here's to a successful and fulfilling career ahead!
+
+- The TechCorp Family
+
+========================================
+Last Updated: November 2024
+HR Department - TechCorp Solutions
+Contact: onboarding@techcorp.com
+========================================

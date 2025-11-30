@@ -1,0 +1,309 @@
+REMOTE WORK POLICY
+TechCorp Solutions
+Effective: November 2024
+
+========================================
+1. OVERVIEW
+========================================
+
+TechCorp recognizes the benefits of flexible work arrangements. This policy outlines the guidelines for remote work to ensure productivity, collaboration, and work-life balance.
+
+========================================
+2. ELIGIBILITY
+========================================
+
+2.1 Who Can Work Remotely?
+Remote work is available to:
+- All full-time employees after completing 6 months probation
+- Employees with satisfactory or better performance ratings
+- Roles that can be performed remotely (as determined by manager)
+
+Not eligible:
+- Probationary employees (first 6 months)
+- Employees on performance improvement plans
+- Roles requiring physical presence (facilities, reception, etc.)
+
+2.2 Types of Remote Work
+
+Hybrid Work (Default):
+- Work from office 3 days per week (Mon, Tue, Thu mandatory)
+- Work from home 2 days per week (Wed, Fri flexible)
+- Team days: Entire team must be present on Thursdays
+
+Temporary Remote Work:
+- Short-term remote work for specific reasons (medical, relocation, etc.)
+- Requires manager approval
+- Duration: Up to 3 months
+
+Permanent Remote Work:
+- Employees living >50km from office
+- Requires director-level approval
+- Must visit office at least once per month
+- Subject to annual review
+
+========================================
+3. WORK HOURS AND AVAILABILITY
+========================================
+
+3.1 Core Hours
+All remote employees must be available during core hours:
+- 11:00 AM to 4:00 PM (India Time)
+- Respond to messages within 30 minutes during core hours
+- Attend all scheduled meetings via video call
+
+3.2 Working Hours
+- Standard 40 hours per week applies
+- Log attendance in HRMS portal by 10 AM
+- Log out time must be recorded
+- Overtime requires pre-approval
+
+3.3 Time Zone Considerations
+For employees in different time zones:
+- Must have at least 4 hours overlap with India core hours
+- Adjust schedule to attend important meetings
+- Communicate time zone clearly in email signature
+
+========================================
+4. WORKSPACE REQUIREMENTS
+========================================
+
+4.1 Home Office Setup
+Employees working remotely must have:
+- Dedicated workspace (separate from living areas if possible)
+- Stable internet connection (minimum 50 Mbps)
+- Backup internet (mobile hotspot for emergencies)
+- Quiet environment for meetings
+- Adequate lighting for video calls
+
+4.2 Equipment Provided by Company
+For permanent remote employees:
+- Laptop (standard company issue)
+- Monitor (24-inch, on request)
+- Keyboard and mouse
+- Headset with noise cancellation
+- Laptop bag
+
+One-time work-from-home setup allowance: Rs. 15,000
+(For chair, desk, lighting, etc.)
+
+4.3 Employee Responsibilities
+- Maintain equipment properly
+- Ensure physical security of company assets
+- Use equipment only for work purposes
+- Return equipment immediately upon resignation
+
+========================================
+5. COMMUNICATION GUIDELINES
+========================================
+
+5.1 Video Meetings
+- Keep camera ON for all meetings
+- Use professional background or blur
+- Dress appropriately (business casual minimum)
+- Mute when not speaking
+- Be punctual (join 2 minutes early)
+
+5.2 Status Updates
+- Update Slack/Teams status (Available, In Meeting, Away, etc.)
+- Daily standup updates in team channel by 10:30 AM
+- End-of-day summary in project management tool
+- Weekly summary email to manager (Fridays)
+
+5.3 Response Time Expectations
+- Urgent messages: Within 15 minutes
+- Regular messages: Within 1 hour during core hours
+- Emails: Within 4 hours during work hours
+- Set out-of-office for lunch breaks >30 minutes
+
+5.4 Communication Tools
+Mandatory tools:
+- Slack: Instant messaging
+- Zoom: Video conferencing
+- Jira: Project management
+- Google Workspace: Email, docs, calendar
+- GitHub: Code collaboration
+
+========================================
+6. PRODUCTIVITY AND PERFORMANCE
+========================================
+
+6.1 Performance Metrics
+Remote work performance measured by:
+- Output quality and timeliness
+- Meeting attendance and participation
+- Communication responsiveness
+- Collaboration with team
+- Achievement of goals/targets
+
+6.2 Daily Check-ins
+Managers may require:
+- Morning sync call (15 minutes)
+- End-of-day status update
+- Weekly one-on-one meetings (30 minutes minimum)
+
+6.3 Performance Review
+- Same criteria as in-office employees
+- 360-degree feedback includes remote collaboration
+- Remote work privilege revoked for poor performance
+
+========================================
+7. SECURITY REQUIREMENTS
+========================================
+
+7.1 Network Security
+- Use company VPN for all work activities
+- Never connect to public/unsecured WiFi
+- Enable firewall on home router
+- Use strong WiFi password (WPA3 if available)
+
+7.2 Data Protection
+- No company data on personal devices
+- Use encrypted cloud storage only (company-approved)
+- Lock screen when away from desk (password required)
+- Shred printed confidential documents
+
+7.3 Physical Security
+- Lock workspace when not present
+- No unauthorized persons in workspace during work
+- No visible company information in video backgrounds
+- Secure all equipment when not in use
+
+7.4 Incident Reporting
+Report immediately if:
+- Device is lost or stolen
+- Security breach suspected
+- Unauthorized access attempt
+- Equipment damage
+
+Contact: security@techcorp.com or Ext. 9999
+
+========================================
+8. EXPENSES AND REIMBURSEMENTS
+========================================
+
+8.1 Reimbursable Expenses
+Monthly:
+- Internet charges: Up to Rs. 1,500/month
+- Electricity: Rs. 500/month (permanent remote only)
+- Mobile data: Rs. 300/month
+
+8.2 Non-Reimbursable
+- Furniture beyond one-time allowance
+- Office supplies (pens, paper, etc.)
+- Coffee, snacks, meals
+- Coworking space membership
+
+8.3 Claim Process
+1. Submit expense in HRMS portal by 5th of month
+2. Attach bills/invoices
+3. Reimbursement in next month's salary
+
+========================================
+9. COLLABORATION AND TEAM BUILDING
+========================================
+
+9.1 Office Days
+All remote employees must:
+- Attend office on designated team days (usually Thursdays)
+- Participate in quarterly team offsites
+- Attend annual company events (kickoffs, celebrations)
+- Join important in-person client meetings
+
+Travel to office:
+- Advance notice: At least 3 days
+- Travel reimbursement: As per company policy
+- Accommodation: Provided if distance >100km
+
+9.2 Virtual Team Building
+- Monthly virtual team lunch (1 hour, casual)
+- Online games and activities
+- Virtual coffee breaks (informal 15-min chats)
+- Recognition in team meetings
+
+========================================
+10. WORK-LIFE BALANCE
+========================================
+
+10.1 Right to Disconnect
+- No expectation to respond after 7 PM
+- Weekends are off (unless emergency)
+- Use "Do Not Disturb" status when needed
+- Take regular breaks (15 min every 2 hours recommended)
+
+10.2 Avoiding Burnout
+- Take full lunch break (minimum 30 minutes)
+- Use all allocated leave days
+- Separate work and personal space if possible
+- Communicate if workload is overwhelming
+
+========================================
+11. APPROVAL PROCESS
+========================================
+
+11.1 Applying for Remote Work
+For hybrid work (default):
+- Automatic approval after probation
+- Inform team via calendar/Slack
+
+For temporary remote work:
+1. Submit request in HRMS (minimum 1 week advance)
+2. Manager approval required
+3. HR notification automatic
+
+For permanent remote work:
+1. Written request with justification
+2. Manager recommendation
+3. Director approval
+4. HR documentation
+5. Review every 6 months
+
+11.2 Revoking Remote Work Privilege
+Remote work may be revoked if:
+- Performance declines
+- Security policy violations
+- Poor communication/collaboration
+- Business needs change
+- Employee request
+
+Notice period: 2 weeks (except for serious violations)
+
+========================================
+12. HEALTH AND WELLNESS
+========================================
+
+12.1 Ergonomics
+- Take 5-minute break every hour
+- Follow 20-20-20 rule (every 20 min, look 20 feet away for 20 sec)
+- Maintain proper posture
+- Adjust monitor to eye level
+
+12.2 Mental Health
+- Access to EAP counseling services
+- Virtual wellness sessions (yoga, meditation)
+- Managers check-in on well-being
+- Encourage social connection with team
+
+========================================
+13. POLICY VIOLATIONS
+========================================
+
+Consequences for violations:
+1. First violation: Written warning
+2. Second violation: Remote work suspended for 1 month
+3. Third violation: Permanent revocation of remote work privilege
+4. Serious violations (security breach): Disciplinary action up to termination
+
+========================================
+CONTACT INFORMATION
+========================================
+
+Remote Work Coordinator: remotework@techcorp.com
+IT Support: itsupport@techcorp.com | Ext. 4444
+HR Help: hr@techcorp.com | Ext. 5555
+
+For questions or assistance with remote work setup, please reach out!
+
+========================================
+This policy is subject to change. Updates will be communicated via email.
+Last Updated: November 2024
+========================================

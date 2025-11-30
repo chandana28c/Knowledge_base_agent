@@ -1,0 +1,123 @@
+IT SECURITY AND ACCEPTABLE USE POLICY
+TechCorp Solutions
+Effective Date: November 2024
+
+========================================
+1. PASSWORD POLICY
+========================================
+
+1.1 Password Requirements
+All system passwords must meet the following criteria:
+- Minimum 12 characters in length
+- Include uppercase and lowercase letters
+- Include at least one number
+- Include at least one special character (@, #, $, etc.)
+- Must not contain username or common words
+
+1.2 Password Changes
+Employees must change their passwords every 90 days. The system will prompt password changes 7 days before expiration. Passwords cannot be reused within 12 password cycles.
+
+1.3 Multi-Factor Authentication (MFA)
+MFA is mandatory for all company systems including email, VPN, and cloud applications. Employees must register their mobile device or authenticator app within the first week of joining.
+
+========================================
+2. DATA SECURITY
+========================================
+
+2.1 Data Classification
+Company data is classified into three categories:
+- Public: Information approved for public release
+- Internal: Information for internal use only
+- Confidential: Sensitive business and customer data
+
+2.2 Data Handling
+Confidential data must be encrypted both in transit and at rest. Employees should not store sensitive data on personal devices or unsecured cloud storage. All data transfers must use approved secure channels.
+
+2.3 Data Backup
+Critical data is backed up daily to secure offsite servers. Employees are responsible for saving work on designated company servers. Local-only data is not covered by backup policies.
+
+========================================
+3. EMAIL AND COMMUNICATION
+========================================
+
+3.1 Email Usage
+Company email should be used for business purposes only. Personal use should be minimal and must not interfere with work duties. All emails are subject to monitoring and archival as per legal requirements.
+
+3.2 Phishing Awareness
+Employees must be vigilant about phishing attempts. Suspicious emails should be reported to IT security immediately. Never click on links or download attachments from unknown senders.
+
+3.3 External Communication
+When communicating with external parties, use the official company email signature. Confidential information should only be shared through encrypted channels or secure file transfer systems.
+
+========================================
+4. DEVICE AND EQUIPMENT POLICY
+========================================
+
+4.1 Company Equipment
+All laptops, mobile devices, and equipment issued by the company remain company property. Employees are responsible for the proper care and security of issued equipment.
+
+4.2 Personal Device Usage (BYOD)
+Personal devices can be used to access company email and approved applications only after installation of company-approved security software. BYOD devices must comply with minimum security requirements.
+
+4.3 Remote Access
+VPN access is required for all remote connections to company networks. VPN credentials are personal and must not be shared. Remote desktop access requires additional approval from IT.
+
+========================================
+5. SOFTWARE AND APPLICATION USAGE
+========================================
+
+5.1 Approved Software
+Only IT-approved software can be installed on company devices. Employees requiring new software must submit a request through the IT helpdesk for security evaluation.
+
+5.2 Software Licensing
+All software must be properly licensed. Using pirated or unauthorized software is strictly prohibited and may result in disciplinary action.
+
+5.3 Cloud Services
+Only approved cloud services (Google Workspace, Microsoft 365, Slack) can be used for business purposes. Uploading company data to unapproved cloud services is prohibited.
+
+========================================
+6. INTERNET AND NETWORK USAGE
+========================================
+
+6.1 Acceptable Use
+Internet access is provided for business purposes. Reasonable personal use is permitted during breaks. Accessing inappropriate content, illegal websites, or streaming services during work hours is prohibited.
+
+6.2 Network Security
+Employees must not attempt to bypass network security controls or access restricted areas of the network. Any security vulnerabilities discovered should be reported to IT immediately.
+
+6.3 WiFi Usage
+Company WiFi networks are for authorized users only. Guest WiFi is available for visitors. Employees should not connect to unsecured public WiFi networks when handling company data.
+
+========================================
+7. INCIDENT REPORTING
+========================================
+
+7.1 Security Incidents
+Any security incidents including lost devices, suspected data breaches, or unauthorized access must be reported to IT security within 1 hour of discovery.
+
+7.2 IT Support
+For technical issues, contact the IT helpdesk:
+- Email: itsupport@techcorp.com
+- Phone: Ext. 4444
+- Portal: https://helpdesk.techcorp.com
+- Response time: Within 4 business hours
+
+========================================
+8. COMPLIANCE AND VIOLATIONS
+========================================
+
+8.1 Policy Compliance
+All employees must complete annual security awareness training. Compliance is monitored through system audits and security assessments.
+
+8.2 Violation Consequences
+Violations of this policy may result in:
+- First offense: Written warning and mandatory retraining
+- Second offense: Suspension and formal review
+- Serious violations: Immediate termination and possible legal action
+
+========================================
+For security concerns or questions:
+IT Security Team
+Email: security@techcorp.com
+Emergency Hotline: +91-80-1234-9999
+========================================
